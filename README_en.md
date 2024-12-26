@@ -291,20 +291,6 @@ Port environment variables:
 
 [Changelog](./CHANGELOG.md)
 
-## Appreciate
-
-<div>Development and maintenance are not easy, please buy me a coffee ~</div>
-
-| Alipay                                | Wechat                                    |
-|---------------------------------------|-------------------------------------------|
-| ![Alipay](./static/images/alipay.jpg) | ![Wechat](./static/images/appreciate.jpg) |
-
-## Follow
-
-Wechat public account search for Govin, or scan the code to receive updates and learn more tips:
-
-![Wechat public account](./static/images/qrcode.jpg)
-
 ## Disclaimer
 
 This project is for learning and communication purposes only. All interface data comes from the internet. If there is
